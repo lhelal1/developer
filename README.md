@@ -115,7 +115,7 @@ I always had affinity with hard sciences. Back in the 2005, I started the gradua
 
 <br>
 
-In 2007, there was time to move. I was looking for more hard sciences, but still applied in a while. That was when I shifted to IEEE - Electrical and Electronics Engineering, at Universidade Federal de Santa Catarina. For a lack of maturity, influenced by my times in triathlon, about 2 years later, I suspended the course. And such a big irony, those years on health and Epidemiology triggered me to <strong> get back to Engineering - yes, I will return formally to Engineering School!</strong>.
+In 2007, there was time to move. I was looking for more hard sciences, but still applied in a while. That was when I shifted to [IEEE - Electrical and Electronics Engineering](wikipedia.org/IEEE), at [Universidade Federal de Santa Catarina](www.ufsc.br). For a lack of maturity, influenced by my times in triathlon, about 2 years later, I suspended the course. And such a big irony, those years on health and Epidemiology triggered me to <strong> get back to Engineering - yes, I will return formally to Engineering School!</strong>.
 
 <br>
 
