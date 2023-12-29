@@ -4,6 +4,14 @@ entropyWithMe!
     </p>
 </h1>
 
+<br>
+
+<h3>
+    <p align="center";>
+PS: This README.md is still under construction.
+    </p>
+</h3>
+
 <!-- TOC start -->
 
 - [Welcome and Acknoledgments](#welcome-and-acknoledgments)
@@ -107,7 +115,7 @@ This triggered me an interest beyond problem-solving applied to my field. Indeed
 
 ## My Background
 <p>
-I always had affinity with hard sciences. Back in the 2005, I started the graduate course in [Architecture](https://wikipedia.org/Architecture/). I got two years, when I learned important skills till today: <strong> a. Technical Drawing; b. Computer Assisted Design (aka "CAD"); c. Art History; d. Architectonical Elements; e. Civil Engineering; f. Documentation</strong>. I'm hardly influenced by knowledge which I was exposed 20 years ago...
+I always had affinity with hard sciences. Back in the 2005, I started the graduate course in [Architecture](https://en.wikipedia.org/wiki/Architecture). I got two years, when I learned important skills till today: <strong> a. Technical Drawing; b. Computer Assisted Design (aka "CAD"); c. Art History; d. Architectonical Elements; e. Civil Engineering; f. Documentation</strong>. I'm hardly influenced by knowledge which I was exposed 20 years ago...
 
 <br>
 
