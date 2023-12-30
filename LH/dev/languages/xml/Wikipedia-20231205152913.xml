@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.42.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>ISO 898</title>
+    <ns>0</ns>
+    <id>23198115</id>
+    <revision>
+      <id>1187364365</id>
+      <parentid>1133822107</parentid>
+      <timestamp>2023-11-28T20:11:13Z</timestamp>
+      <contributor>
+        <username>Lewcm</username>
+        <id>36874176</id>
+      </contributor>
+      <comment>Modernised article</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6563" xml:space="preserve">{{short description |Standard for bolts, screws etc.}}
+'''ISO 898''' is an [[international standard]] that defines mechanical and [[physical properties]] for [[ISO metric screw thread|metric fasteners]]. This standard is the origin for other standards that define properties for similar metric [[fastener]]s, such as [[SAE J1199]] and [[ASTM F568M]].&lt;ref&gt;{{harvnb|Bickford|Nassar|1998|p=154}}.&lt;/ref&gt; It is divided into five (nonconsecutive) parts:
+
+1. Bolts, screws and studs with specified property classes &amp;ndash; Coarse thread and fine pitch thread&lt;ref name="part1"&gt;{{Citation | title = ISO 898-1:2013| url = https://www.iso.org/standard/60610.html | access-date = 2023-11-28}}.&lt;/ref&gt;
+
+2. Nuts with specified proof load values &amp;ndash; Coarse thread&lt;ref name="part2"&gt;{{Citation | title = ISO 898-2:2022| url = https://www.iso.org/standard/79349.html | access-date = 2023-11-28}}.&lt;/ref&gt;
+
+3. Flat washers with specified property classes&lt;ref name="part3"&gt;{{Citation | title = ISO 898-3:2018| url = https://www.iso.org/standard/79531.html | access-date = 2023-11-28}}.&lt;/ref&gt;
+
+5. Set screws and similar threaded fasteners not under tensile stresses&lt;ref name="part5"&gt;{{Citation | title = ISO 898-5 | url = http://engineers.ihs.com/document/abstract/BGCECAAAAAAAAAAA | access-date = 2009-06-12}}.&lt;/ref&gt;&lt;ref name="part5iso"&gt;{{Citation | title = ISO 898-5:2021| url = https://www.iso.org/standard/54038.html | access-date = 2023-11-28}}.&lt;/ref&gt;
+
+6. (Now withdrawn) Nuts with specified proof load values &amp;ndash; Fine pitch thread&lt;ref name="part6"&gt;{{Citation | title = ISO 898-6:1994 | url = http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=5299 | access-date = 2009-06-12}}.&lt;/ref&gt;
+
+7. Torsional test and minimum torques for bolts and screws with nominal diameters 1&amp;nbsp;mm to 10&amp;nbsp;mm&lt;ref name="part7"&gt;{{Citation | title = ISO 898-7:1992 | url = https://www.iso.org/standard/5300.html | access-date = 2023-11-28}}.&lt;/ref&gt;
+
+With exception to part 7, which defines test standards, the parts of this standard define properties for fasteners made of [[carbon steel]] and [[alloy steel]]. The standards define that the testing must be performed at [[ambient temperature]]s, which is defined as between {{convert|10|and|35|C|F}}. The standards do not cover fasteners that would otherwise apply but require special properties, such as [[weldability]] or [[corrosion resistance]].&lt;ref name="part1"/&gt;&lt;ref name="part2"/&gt;&lt;ref name="part5"/&gt;
+
+==Part 1: Bolts, screws and studs with specified property classes – Coarse thread and fine pitch thread==
+Part 1 defines the mechanical properties of bolts, [[screws]], and [[Threaded rod|studs]]. It specifically applies to fasteners that have an ISO metric screw thread as defined in [[ISO 68-1]]. The properties are defined for M1.6-39 with coarse threads and M8-39 with fine threads. The diameter and pitch combinations must adhere to [[ISO 261]] and [[ISO 262]] and the thread tolerances must adhere to [[ISO 965]] parts 1, 2, and 4.&lt;ref name="part1"/&gt;
+
+Part 1 does not specify properties for fasteners that have head geometries that reduce the [[shear strength]] of the fastener, such as [[low head screw]]s and [[countersink|countersunk]] heads. It also excludes [[set screw]]s, which are covered under part 5.&lt;ref name="part1"/&gt;
+
+==Part 2: Nuts with specified proof load values – Coarse thread==
+Part 2 defines the mechanical properties for coarse threaded nuts up to an M39 size and a height of at least half the nominal diameter.&lt;ref name="part2"/&gt;
+
+== Part 3: Flat washers with specified property classes ==
+Part 3 defines the mechanical and physical properties of flat [[Washer (hardware)|washers]], designed to be used in bolted joints in combination with other fasteners.&lt;ref name="part3"/&gt;
+
+==Part 5: Set screws and similar threaded fasteners not under tensile stresses==
+Part 5 defines the mechanical properties for [[set screw]]s and other fasteners not under [[tensile stress]]es. It defines properties for sizes M1.6 through M24.&lt;ref name="part5"/&gt;
+
+==Part 6: Nuts with specified proof load values – Fine pitch thread==
+Part 6 has been withdrawn as of 20212 and been replaced by ISO 898-2:2012. It used to be same as part 2 except for fine threaded nuts that range from M8 to M39. Note that the working temperature range for these fasteners is {{convert|-50|to|300|C|F}}&lt;ref name="part6"/&gt;
+
+==Part 7: Torsional test and minimum torques for bolts and screws with nominal diameters 1 mm to 10 mm==
+Part 7 defines how to perform torsional tests on bolts and screws that have a nominal diameter less than or equal to 10&amp;nbsp;mm. This standard only applies to short screws and bolts with a nominal diameter between 3 and 10 mm.&lt;ref name="part7"/&gt;
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+*{{Citation | last1 = Bickford | first1 = John H. | last2 = Nassar | first2 = Sayed | title = Handbook of bolts and bolted joints | publisher = CRC Press | year = 1998 | url = https://books.google.com/books?id=NaZwZK2xm-QC | isbn = 978-0-8247-9977-9}}.
+
+==Further reading==
+*{{Citation | last = Blake | first = Alexander | title = What every engineer should know about threaded fasteners: materials and design | publisher = CRC Press | year = 1986 | url = https://books.google.com/books?id=TAWznUs54uwC | isbn = 978-0-8247-7554-4}}.
+*{{Citation | last1 = Hagiwara | first1 = Masaya | last2 = Sakai | first2 = Hiroaki | title = Verification of the Design Concept on Nuts in Bolt/Nut Assembly for Revision of ISO 898-2 and ISO 898-6 | journal = Journal of Advanced Mechanical Design, Systems, and Manufacturing | volume = 1 | issue = 5 | pages = 755–762 | year = 2007 | url = http://www.jstage.jst.go.jp/article/jamdsm/1/5/755/_pdf | doi = 10.1299/jamdsm.1.755 | bibcode = 2007JAMDS...1..755H | doi-access = free }}{{Dead link|date=January 2023 |bot=InternetArchiveBot |fix-attempted=yes }}.
+*{{Citation | last = Timings | first = Roger Leslie | title = Newnes mechanical engineer's pocket book | publisher = Newnes | pages = 196–234 | year = 2005 | edition = 3rd | url = https://books.google.com/books?id=IZdDk1cMlLcC | isbn = 978-0-7506-6508-7}}.
+
+==External links==
+*[http://www.fastenal.com/content/feds/pdf/Mechanical%20Properties%20of%20Metric%20Fasteners.pdf Mechanical properties of common ISO property classes] {{Webarchive|url=https://web.archive.org/web/20091104180650/http://www.fastenal.com/content/feds/pdf/Mechanical%20Properties%20of%20Metric%20Fasteners.pdf |date=2009-11-04 }}
+
+{{ISO standards}}
+
+{{DEFAULTSORT:Iso 898}}
+[[Category:ISO standards|#00898]]
+[[Category:Screws]]</text>
+      <sha1>l8bvw3g29jwe41mpp4u0f8dy45hgnpa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ISO 898-2</title>
+    <ns>0</ns>
+    <id>23199097</id>
+    <redirect title="ISO 898" />
+    <revision>
+      <id>296085834</id>
+      <timestamp>2009-06-13T01:17:02Z</timestamp>
+      <contributor>
+        <username>Wizard191</username>
+        <id>935746</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[ISO 898]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" xml:space="preserve">#REDIRECT [[ISO 898]]</text>
+      <sha1>j3mam7zf6tyvztdn4o4wsieoitt8r9n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ISO 898-5</title>
+    <ns>0</ns>
+    <id>23199102</id>
+    <redirect title="ISO 898" />
+    <revision>
+      <id>296085880</id>
+      <timestamp>2009-06-13T01:17:16Z</timestamp>
+      <contributor>
+        <username>Wizard191</username>
+        <id>935746</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[ISO 898]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" xml:space="preserve">#REDIRECT [[ISO 898]]</text>
+      <sha1>j3mam7zf6tyvztdn4o4wsieoitt8r9n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ISO 898-6</title>
+    <ns>0</ns>
+    <id>23199103</id>
+    <redirect title="ISO 898" />
+    <revision>
+      <id>296085913</id>
+      <timestamp>2009-06-13T01:17:30Z</timestamp>
+      <contributor>
+        <username>Wizard191</username>
+        <id>935746</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[ISO 898]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" xml:space="preserve">#REDIRECT [[ISO 898]]</text>
+      <sha1>j3mam7zf6tyvztdn4o4wsieoitt8r9n</sha1>
+    </revision>
+  </page>
+</mediawiki>
