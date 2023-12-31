@@ -6,12 +6,6 @@ entropyWithMe!
 
 <br>
 
-<h3>
-    <p align="center";>
-PS: This README.md is still under construction.
-    </p>
-</h3>
-
 <!-- TOC start -->
 
 - [Welcome and Acknoledgments](#welcome-and-acknoledgments)
@@ -22,7 +16,45 @@ PS: This README.md is still under construction.
   - [What you mainly find here](#what-you-mainly-find-here)
   - [Our folder structure](#our-folder-structure)
 
+<br>
+
+## Useful Links
+
+<br>
+
+<p align="center";>
+    These links may help you a lot. In the vast majority of the cases, they solve ordinary problems for me.
+    </p>
+
+
+
+<br>
+
+<h3>
+    <p align="center";>
+PS: All links are ordered accordingly to how much I use each of them.
+    </p>
+</h3>
+
+<hr>
+
+<h3>For general purpose</h3>
+
+<br>
+<br>
+
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white&logoSize=50%) ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+<br>
+<br>
+
+<h3>For computational issues</h3>
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) 
+
+</hl>
 <!-- TOC end -->
+<hr>
 
 
 <!DOCTYPE html>
@@ -35,7 +67,7 @@ PS: This README.md is still under construction.
 
 ## Welcome and Acknoledgments
 
-Welcome to my personal portfolio. This is the central repository of the [entropywith.me](https://entropywith.me) project. In a nutshell, this is a personal project I figured out to stimulate people to gather knowledge from apparently non-related fields against your field of work. My intention is to inspire, through my daily activities, people to accumulate skills in basics and applied sciences as well as to have the joy to assembly your own stuff.
+Welcome to my personal portfolio. This is the central repository of the [entropyWithMe](www.entropywith.me) project. In a nutshell, this is a personal project I figured out to stimulate people to gather knowledge from apparently non-related fields against your field of work. My intention is to inspire, through my daily activities, people to accumulate skills in basics and applied sciences as well as to have the joy to assembly your own stuff.
 
 <br>
 
@@ -50,37 +82,37 @@ Thanks a lot for:
 <list>
 <li>
     <strong>Julio Lombaldo</strong> - Institute of Mathematics, Universidade Federal do Rio Grande do Sul, Brazil
-
+<br>
 <li>
     <strong>Diogo Ferreira</strong> - Institute of Computer Science, Universidade Federal do Rio Grande do Sul, Brazil
-
+<br>
 <li>
     <strong>Sotero Mengue</strong> - Graduate Program in Epidemiology, Universidade Federal do Rio Grande do Sul, Brazil
-
+<br>
 <li>
     <strong>Rodrigo Vanzelotti</strong> - Institute of Computer Sciences, Universidade Federal do Rio Grande do Sul, Brazil
-
+<br>
 <li>
     <strong>Daniel Umpierre</strong> - School of Public Health, Universidade Federal do Rio Grande do Sul, Brazil
-
+<br>
 <li>
     <strong>Luiz Augusto Saeger</strong> - Institute of Mathematics, Universidade Federal de Santa Catarina, Brazil
-
+<br>
 <li>
     <strong>Anelise Szortyka</strong> - Graduate Program in Epidemiology, Universidade Federal do Rio Grande do Sul, Brazil
-
+<br>
 <li>
     <strong>Rodrigo Reis</strong> - Institute of Statistics, Universidade Federal do Rio Grande do Sul, Brazil
-
+<br>
 <li>
     <strong>Patricia Ziegelmann</strong> - Institute of Statistics, Universidade Federal do Rio Grande do Sul, Brazil
-
+<br>
 <li>
     <strong>Rafaela Ribeiro-Lucas</strong> - Graduate Program in Cardiology, Universidade Federal do Rio Grande do Sul, Brazil
-
+<br>
 <li>
     <strong>Thiago Cerqueira-Silva</strong> - Fundação Oswaldo Cruz (Fiocruz/BA), Brazil
-
+<br>
 <li>
     <strong>Tayrine Filgueira</strong> - Universidade Federal do Rio Grande do Norte, Brazil
 </list>
@@ -89,33 +121,40 @@ Thanks a lot for:
 <p>
 <br>
 
+<hr>
+
 ## What is it about?
 
 I hope you enjoy what I do seriously; just for fun; or just for curiosity! So, please do not expect to find everything perfect and crystal clear in all folders/sub-folders.
 
-The intention here is to share openly as I can attempts, assemblies, errors, real-life mistakes, in a journey of an epidemiologist/engineer-prototype/dev-dreamer.
-</p>
-<br>
-<p>
-Below you can find the folder structure under the <code>LH</code> main folder that is available in the `development` branch. The vast majority of my projects are quite solo, but I have the hands of my master's candidate <code>@RafaelaRibeiro</code>, as well as Dr. <code>@TayrineOrdonio</code>.
-
-As for programming languages, my focus is on scientific computing. Then, for *general purpose language - GLP*, I mostly go with <code> C/C++ </code>/<code>Python</code>. 
-
-<br>
-
-> Fun fact: my first programming language was <code> R Language </code>, mostly to solve applied problems in Epidemiology/Statistics. 
+The intention here is to share openly as I can attempts, assemblies, errors, real-life mistakes, in a journey of an <strong>epidemiologist/engineer-prototype/dev-dreamer</strong>.
 </p>
 
 <br>
 
 <p>
-This triggered me an interest beyond problem-solving applied to my field. Indeed, I cannot fit myself into a single area, and this has a lot to do with my background.
+Indeed, I cannot fit myself into a single area, and this has a lot to do with <strong>my background</strong>.
 
 <br>
 
 ## My Background
 <p>
-I always had affinity with hard sciences. Back in the 2005, I started the graduate course in [Architecture](https://en.wikipedia.org/wiki/Architecture). I got two years, when I learned important skills till today: <strong> a. Technical Drawing; b. Computer Assisted Design (aka "CAD"); c. Art History; d. Architectonical Elements; e. Civil Engineering; f. Documentation</strong>. I'm hardly influenced by knowledge which I was exposed 20 years ago...
+
+I always had affinity with hard sciences. Back in the 2005, I started the graduate course in [Architectural Sciences](https://en.wikipedia.org/wiki/Architecture) and [Electrical Engineering](https://en.wikipedia.org/wiki/ElectricalEngineering). 
+
+<p>
+I got two years, when I learned important skills till today: 
+
+    a. Technical Drawing; 📐
+    b. Calculus, Algebra and Numerical Analysis 🧑‍🏫
+    d. Architectonical Planning, Elements and Structures; 🏛️
+    e. Electrical Engineering at a whole; 
+    f. Scientific Computing;
+    h. Mechanical Engineering;
+    i. Probability and Statistics;
+    j. and so on...
+    
+> I'm hardly influenced by knowledge which I was exposed 20 years ago...
 
 <br>
 
@@ -123,17 +162,20 @@ I always had affinity with hard sciences. Back in the 2005, I started the gradua
 
 <br>
 
-In 2007, there was time to move. I was looking for more hard sciences, but still applied in a while. That was when I shifted to [IEEE - Electrical and Electronics Engineering](wikipedia.org/IEEE), at [Universidade Federal de Santa Catarina](www.ufsc.br). For a lack of maturity, influenced by my times in triathlon, about 2 years later, I suspended the course. And such a big irony, those years on health and Epidemiology triggered me to <strong> get back to Engineering - yes, I will return formally to Engineering School!</strong>.
+In 2007, there was time to move. I was looking for more hard sciences, but still applied in a while. That was when I shifted to IEEE. For a lack of maturity, influenced by my times in triathlon, about 2 years later, I suspended the course. And such a big irony, those years on epidemiological surveillance and professor triggered me hardly back to Engineering.
+
+> YES! I will return formally to Engineering School! Don't know yet if EEE, Mechanical or Civil Engineering yet.</strong>.
 
 <br>
 
 <p>
-More recently, important topics I was exposed in EEE came hard to surface: <strong>a. Calculus; b. Numerical Analysis; c. Probability (I'm a stats professor, by the way); c. Linear Algebra; d. Scientific Computation; e. and a lot...</strong>. Then, I started my own <strong>workbench</strong>. 
-
+More recently, important topics I was exposed in EEE came hard to surface: <strong>a. Calculus; b. Numerical Analysis; c. Probability (I'm a stats professor, by the way); c. Linear Algebra; d. Scientific Computation; e. and a lot...</strong>. Then, I started my own <strong>workbench</strong> during my taught courses on Statistics, Surveillance and Burden of Diseases. And then it's time to talk about my work-bench for electronical and electrical projects I'm assembling at home - <strong>my new office!</strong>
 <br>
 
 <p>
-From the bench to the thermal comfort, every single piece of that office was made by myself. Please, <em>try to assembly yourself</em>. There are not such pleasant things in life to realize that you made that whole thing. And this is what inspired me to, beyond sharing my journey to an <strong>engineer</strong> again, try to make it open for you if you are a curious mind. To formally endeavor and technically answer by a project, you need a graduation in the field. But, for knowledge, there is <strong>no borders at all!</strong> - and I warrant you that you will make use of every single piecee of knowledge of your tool box - even though not applied, at least it makes you <em>smarter ;)</em>!
+From the bench to the thermal comfort, every single piece of that office was made by myself. The lab coat to boots and pants.
+    
+<p> <strong>Please!</strong> try to assembly yourself something. There are not such pleasant things in life to realize that you made that whole thing. And this is what inspired me to, beyond sharing my journey to an <strong>engineer</strong> again, try to make it open for you if you are a curious mind. To formally endeavor and technically answer by a project, you need a graduation in the field. But, for knowledge, there is <strong>no borders at all!</strong> - and I warrant you that you will make use of every single piecee of knowledge of your tool box - even though not applied, at least it makes you <em>smarter ;)</em>!
 
 <br>
 
@@ -209,6 +251,8 @@ For the vast majority, I accomplish the goal - and learn something new
 ### Our folder structure
 
 last update: 29DEC2023-0507PM
+
+Below you can find the folder structure under the <code>LH</code> main folder that is available in the `development` branch. The vast majority of my projects are quite solo, but I have the hands of my master's candidate <code>@RafaelaRibeiro</code>, as well as Dr. <code>@TayrineOrdonio</code>.
 
 ```bash
 
